@@ -1,6 +1,6 @@
 # Code 1: Fresnel's equation
 
-![image](Optical-Computation/blob/master/Docs/Code1_FresnelEqn_para1.png)
+![image](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code1_FresnelEqn_para1.png){:height="50%" width="50%"}
 123\
 test\
-![image](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code1_FresnelEqn_para2.png)
+![image](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code1_FresnelEqn_para2.png){:height="50%" width="50%"}
