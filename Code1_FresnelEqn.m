@@ -1,6 +1,6 @@
 echo on
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% - Title: Code1.m
+% - Title: Code1_FresnelEqn.m
 % - Author: XYZ
 % - Created date: March 13, 2020
 % - Modified date: March 16, 2020
