@@ -1,7 +1,7 @@
 echo on
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % - Title: Code1.m
-% - Author: ²øµ¾ÒR (Xiang-Yu Zhuang)
+% - Author: XYZ
 % - Created date: March 13, 2020
 % - Modified date: March 16, 2020
 % - Notes:
