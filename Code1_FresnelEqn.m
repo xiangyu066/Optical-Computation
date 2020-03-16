@@ -7,9 +7,12 @@ echo on
 % - Notes:
 %       1.) Using "surf()" with "shading interp" can make 3D surface pretty.
 %       2.) abs(complex)^2 ~= (complex)^2
-%       3.) (Fresnel equation) if (n_i < n_t), then the polarized light from ground is parallel to ground.
-%       4.) 白光 LED (Sapphire(n=1.76)上堆疊GaN(n=2.2)) 大約有33%光透射, 可藉由表面鍍膜或是刮爛再多增加一點光透射出來
-% - Enviroments: Win10 (64-bit) / MATLAB 2019a (64-bit) / MATLAB 2019b (64-bit)
+%       3.) (Fresnel equation) if (n_i < n_t), then the polarized light from 
+%           the ground is parallel to the ground.
+%       4.) The transmittance of white light LED (sapphire (n=1.76) stcked 
+%           with GaN (n=2.2)) is about 33%. Using coating or scraped surface 
+%           can enhance more transmit light.
+% - Environments: Win10 (64-bit) / MATLAB 2019a (64-bit)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 echo off
 close all, clear all
@@ -25,7 +28,7 @@ Hz = 1/sec;
 deg = 1;
 rad = 1;
 
-%% Dfine parameters
+%% Define parameters
 n_i = 2.2;                    % the incident refractive index
 n_t = 1.0;                    % the transmit refractive index
 
