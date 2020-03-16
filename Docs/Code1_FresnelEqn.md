@@ -1,4 +1,7 @@
 # Code 1: Fresnel's equation
+This is a good example for first doing optical computation because you have to practice with constructing variables, calculation, and plotting your results in your compiler. 
+## Fundamental 
+
 ## How to use?
 ## Describe results...
 \
