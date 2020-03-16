@@ -11,7 +11,7 @@ echo on
 %           the ground is parallel to the ground.
 %       4.) The transmittance of white light LED (sapphire (n=1.76) stcked 
 %           with GaN (n=2.2)) is about 33%. Using coating or scraped surface 
-%           can enhance more transmit light.
+%           can enhance more transmission light.
 % - Environments: Win10 (64-bit) / MATLAB 2019a (64-bit)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 echo off
