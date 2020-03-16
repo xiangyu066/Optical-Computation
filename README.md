@@ -1,4 +1,5 @@
 # Optical-Computation
 
 ## Content
--Code 1: Fresnel's equantion
+- Code 1: Fresnel's equantion
+- Code 2:
