@@ -15,17 +15,18 @@ disp('Running...')
 tic
 
 %% Define parameters
-r_s = 0.0;              % the starting parameter "r"
-r_e = 5.0;              % the ending parameter "r"
-r_step = 0.01;          % the step of parameter "r"
-x_s = -1.0;               % the lower limit of guess parameter "x"
-x_e = 1.0;                % the upper limit of guess parameter "x"
+r_s = 0.0;                      % the starting parameter "r"
+r_e = 5.0;                      % the ending parameter "r"
+r_step = 0.01;                  % the step of parameter "r"
+x_s = -1.0;                     % the lower limit of guess parameter "x"
+x_e = 1.0;                      % the upper limit of guess parameter "x"
 iters = 1000;
 nSeeds = 100;
 
 %% Preallocating variables & functions
 r = (r_s:r_step:r_e);
-f = @(r, x_n) r*x_n*(1-x_n);
+% f = @(r, x_n) r*x_n*(1-x_n);	% the logistic map
+f = @(r, x_n) r*x_n-x_n^3;      % the pitchfork map
 
 %% Main code
 for rCount = 1:length(r)
