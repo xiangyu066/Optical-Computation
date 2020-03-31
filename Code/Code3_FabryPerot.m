@@ -1,16 +1,16 @@
 echo on
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % - Title: Code3_FabryPerot.m
-% - Author: 莊翔淯 (Xiang-Yu Zhuang)
-% - Created date: March 27, 2010
-% - Modified date: April 2, 2020
+% - Author: XYZ
+% - Created date: March 27, 2020
+% - Modified date: March31, 2020
 % - Notes:
-%       1.) T_max (相位差=0, n*pi)
-%       2.) R1=R2, 反射全部變穿透, T_max = 1
-%       3.) free spectral range = c0/(2*n*L*cos(theta))
-%       4.) finesse = FSR/resolution, 要越大反射率要越高
-%       5.) 入射角=0, FSR=c0/(2*n*L); delta(lamda_fsr)=lambda^2/(2*n*L),
-%       可以檢驗是不是Fabry-perot造成的
+%       1.) if R1=R2, then transmission at phase difference n*pi completely
+%           pass.
+%       2.) if system give you a pattern, you can firstly check this
+%           pattern is derived from Fabry-Perot; for example, illumination 
+%           angle=0, the difference between two maximal peak is equal to 
+%           (average wavelength)^2/(2*n_t*L).
 % - Environments: Win10 (64-bit) / MATLAB 2019a (64-bit)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 echo off
@@ -34,11 +34,11 @@ L = 1.0 *(mm);
 
 wavlength_s = 500 *(nm);
 wavelength_e = 501 *(nm);
-dw = 0.0001 *(nm);
-theta_i = 45 *(deg);
+dw = 1E-6 *(nm);
+theta_i = 0 *(deg);
 
-R1 = 0.8;
-R2 = 0.6;
+R1 = ((n_t-n_i)/(n_t+n_i))^2;
+R2 = R1;
 
 %% Preallocating variables and functions
 theta_t = asind(n_i*sind(theta_i)/n_t);
