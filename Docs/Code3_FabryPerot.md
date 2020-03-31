@@ -8,7 +8,7 @@
 Case 1: \
 <img src="https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code3_FabryPerot_Case1.png" width="100%">
 \
-Case 2: \
+Case 2: cover-glass with two same relection index\
 <img src="https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code3_FabryPerot_Case2.png" width="100%">
 \
 \
