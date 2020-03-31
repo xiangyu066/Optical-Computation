@@ -70,7 +70,7 @@ end
 
 % adjust graphic parameters
 xlim([wavlength_s, wavelength_e]), ylim([0, 1.6]), yticks((0:0.2:1)), grid on
-legend({'Fabry-Perot', 'peak', 'prominence', 'width (half-prominence)', 'FSR'}, 'location', 'Northeast')
+legend({'Fabry-Perot', 'peak', 'prominence', 'width (half-prominence)', '\lambda_{FSR}'}, 'location', 'Northeast')
 set(gca, 'fontsize', 14)
 xlabel('\lambda_i [nm]', 'fontsize', 16, 'fontweight', 'bold'), 
 ylabel('Transmission', 'fontsize', 16, 'fontweight', 'bold')
