@@ -7,11 +7,11 @@
 \
 [Code4_FieldPropagation_2D.m](https://github.com/xiangyu066/Optical-Computation/blob/master/Code/Code4_FieldPropagation_2D.m)
 ## Evaluated results
-Case 1: \
-<img src="https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code4_FieldPropagation_1D_single_slit.png" width="100%">
+Case 1: single slit\
+<img src="https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code4_FieldPropagation_1D_single_slit.png" width="60%">
 \
-Case 2: cover-glass with two same relection index\
-<img src="https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code4_FieldPropagation_1D_double_slits.png" width="100%">
+Case 2: double slits\
+<img src="https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code4_FieldPropagation_1D_double_slits.png" width="60%">
 \
 \
 \
