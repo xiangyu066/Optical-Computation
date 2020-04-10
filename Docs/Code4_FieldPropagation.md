@@ -1,4 +1,4 @@
-# Code 4: FieldPropagation
+# Code 4: Field Propagation
 
 ## Fundamental 
 
