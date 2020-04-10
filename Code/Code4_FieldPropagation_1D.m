@@ -45,7 +45,7 @@ switch nSlits
 end
 x = (-xRange:dx:xRange)';
 
-FresConst = Z/(1i*wavelength);
+FresConst = 1/(1i*wavelength);
 
 % using vetorization to boost calculation speed
 uu = repmat(u,[length(x),1]);
@@ -53,7 +53,7 @@ xx = repmat(x,[1,length(u)]);
 
 %% Calculate field propagation
 rr = sqrt( Z^2 + (xx-uu).^2 );
-Ux = FresConst * sum(( U0 * exp(1i*k.*rr) ./ rr.^2) * du ,2);
+Ux = FresConst * Z * sum(( U0 * exp(1i*k.*rr) ./ rr.^2) * du ,2);
 UUx = abs(Ux).^2;
 
 %%
