@@ -10,12 +10,14 @@ This code can provide you with how to calculate the propagating optical field fr
 \
 [Code4_FieldPropagation_2D.m](https://github.com/xiangyu066/Optical-Computation/blob/master/Code/Code4_FieldPropagation_2D.m)
 ## Evaluated results
-Case 1: (1D) single slit\
+Case 1: (1D) The intensity profile of the far-field diffraction with a single slit\
 <img src="https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code4_FieldPropagation_1D_single_slit.png" width="60%">
 \
-Case 2: (1D) double slits\
+Case 2: (1D) The intensity profiles vary from the near-field to the far-field by a single slit\
+\
+Case 3: (1D) double slits\
 <img src="https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code4_FieldPropagation_1D_double_slits.png" width="60%">
 \
-Case 4: (2D)\
+Case 4: (2D)\ 
 \
 [back to Content](https://github.com/xiangyu066/Optical-Computation)
