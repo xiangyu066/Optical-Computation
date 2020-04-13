@@ -1,5 +1,8 @@
 # Code 4: Field Propagation
 
+## Introduction
+This code can provid the optical field propagation with some common cases like as single slit, double slits, and single slit from near-field to far-field.
+
 ## Fundamental 
 
 ## The related files
