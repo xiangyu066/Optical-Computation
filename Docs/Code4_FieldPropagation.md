@@ -1,5 +1,4 @@
 # Code 4: Field Propagation
-\
 This code can provide you with how to calculate the propagating optical field from near-field to far-field. Moreover, I raise some common optical problems, such as a single slit and double slits, to simulate the propagating field and you can compare these results with your optical textbooks.
 
 ## Fundamental 
