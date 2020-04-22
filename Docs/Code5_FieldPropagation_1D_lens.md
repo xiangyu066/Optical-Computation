@@ -5,7 +5,7 @@ This code can provide you with how to calculate the propagating optical field th
 ## The related files
 [Code5_FieldPropagation_1D_lens.m](https://github.com/xiangyu066/Optical-Computation/blob/master/Code/Code5_FieldPropagation_1D_lens.m)
 ## Evaluated results
-Case 1: (1D) The intensity profile of the far-field diffraction with a single slit\
+Case 1: (1D) \
 <img src="https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code5_FieldPropagation_1D_lens_double_slits.png" width="60%">
 \
 [back to Content](https://github.com/xiangyu066/Optical-Computation)
