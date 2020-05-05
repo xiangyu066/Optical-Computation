@@ -10,7 +10,7 @@ First, we modify the Helmholtz equation with the finite difference method, and t
 ## The related files
 [Code6_HelmholtzEq.m](https://github.com/xiangyu066/Optical-Computation/blob/master/Code/Code6_HelmholtzEq.m)
 \
-[Code6_HelmholtzEq.pptx](https://github.com/xiangyu066/Optical-Computation/blob/master/Code/Code6_HelmholtzEq.pptx)
+[Code6_HelmholtzEq.pptx](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code6_HelmholtzEq.pptx)
 ## Evaluated results
 **Case 1:** The constant refactive index in 1-dim.\
 <img src="https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code6_HelmholtzEq_constant.png" width="80%">
