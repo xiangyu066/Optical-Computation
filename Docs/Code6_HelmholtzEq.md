@@ -13,7 +13,7 @@ First, we modify the Helmholtz equation with the finite difference method, and t
 [Code6_HelmholtzEq.pptx](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code6_HelmholtzEq.pptx)
 ## Evaluated results
 **Case 1:** The constant refactive index in 1-dim.\
-<img src="https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code6_HelmholtzEq_constant.png" width="60%">
+<img src="https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code6_HelmholtzEq_rectangle.png" width="60%">
 \
 **Case 2:** The gradient refactive index in 1-dim.\
 <img src="https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code6_HelmholtzEq_triangle.png" width="60%">
