@@ -1,4 +1,4 @@
-# Code 6: Helmholtz equation
+# Code 6: Helmholtz's equation
 If we want to know the optical field how to distribute in the medium rather not time evolution such as the waveguide, then we can calculate the Helmholtz equation to get the effective eigenmodes in the medium. Here, we only consider the 1-dimensional constant and gradient refractive index as our examples.\
 <img src="https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code6_HelmholtzEq.PNG" width="60%">
 ## Fundamental 
