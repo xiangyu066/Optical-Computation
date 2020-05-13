@@ -6,4 +6,5 @@
 - Code 3: [Fabry–Pérot interferometer](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code3_FabryPerot.md)
 - Code 4: [Optical field propagation](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code4_FieldPropagation.md)
 - Code 5: [Optical field propagation in a lens](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code5_FieldPropagation_lens.md)
-- Code 6: [Helmholtz equation](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code6_HelmholtzEq.md)
+- Code 6: [Helmholtz's equation](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code6_HelmholtzEq.md)
+- Code 7: [Schrodinger's equation](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code7_SchrodingerEq.md)
