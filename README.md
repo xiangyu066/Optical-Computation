@@ -8,3 +8,4 @@
 - Code 5: [Optical field propagation in a lens](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code5_FieldPropagation_lens.md)
 - Code 6: [Helmholtz's equation](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code6_HelmholtzEq.md)
 - Code 7: [Schrodinger's equation](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code7_SchrodingerEq.md)
+- Code 9: [FD-BPM](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code9_FDBPM.md)
