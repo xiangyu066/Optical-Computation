@@ -3,7 +3,8 @@
 ## Fundamental 
 
 ## The related files
-[Code2_Bifurcation.m](https://github.com/xiangyu066/Optical-Computation/blob/master/Code/Code2_Bifurcation.m)
+[Code2_Bifurcation.m](https://github.com/xiangyu066/Optical-Computation/blob/master/Code/Code2_Bifurcation.m)\
+[Code2_Bifurcation.py](https://github.com/xiangyu066/Optical-Computation/blob/master/Code/Code2_Bifurcation.py)
 ## Evaluated results
 Case 1: Logistic map\
 <img src="https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code2_Bifurcation_logistic.png" width="70%" height="70%">
