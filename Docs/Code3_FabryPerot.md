@@ -1,7 +1,4 @@
 # Code 3: Fabry–Pérot interferometer
-
-## Fundamental 
-
 ## The related files
 [Code3_FabryPerot.m](https://github.com/xiangyu066/Optical-Computation/blob/master/Code/Code3_FabryPerot.m)
 ## Evaluated results
