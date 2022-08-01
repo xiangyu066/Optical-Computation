@@ -1,7 +1,4 @@
 # Code 2: Bifurcation
-
-## Fundamental 
-
 ## The related files
 [Code2_Bifurcation.m](https://github.com/xiangyu066/Optical-Computation/blob/master/Code/Code2_Bifurcation.m)\
 [Code2_Bifurcation.py](https://github.com/xiangyu066/Optical-Computation/blob/master/Code/Code2_Bifurcation.py)
