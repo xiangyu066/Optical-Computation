@@ -1,7 +1,5 @@
 # Code 5: Field Propagation in the Lens
 This code is similar to Code4 which is propagating field in the air. However, the optical field often propagates in the medium such as a lens. Therefore, this code can provide you with how to calculate the propagating optical field through a thin lens, and then I image some simple geometric objects to verify simulation results by magnification.  
-## Fundamental 
-
 ## The related files
 [Code5_FieldPropagation_1D_lens.m](https://github.com/xiangyu066/Optical-Computation/blob/master/Code/Code5_FieldPropagation_1D_lens.m)
 \
