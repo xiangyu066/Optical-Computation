@@ -1,9 +1,4 @@
 # Code 7: Schrodinger's equation
-
-## Fundamental 
-
-## Algorithem
-
 ## The related files
 [Code7_SchrodingerEq.m](https://github.com/xiangyu066/Optical-Computation/blob/master/Code/Code7_SchrodingerEq.m)
 
