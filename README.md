@@ -9,4 +9,4 @@
 - Code 6: [Helmholtz's equation](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code6_HelmholtzEq.md)
 - Code 7: [Schrodinger's equation](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code7_SchrodingerEq.md)
 - Code 9: [FD-BPM](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code9_FDBPM.md)
-- Code: [Ray tracing](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code_RayTracing.md)
+- Code: [Ray-tracing](https://github.com/xiangyu066/Optical-Computation/blob/master/Docs/Code_RayTracing.md)
